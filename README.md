@@ -416,6 +416,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [redis-py](https://github.com/andymccurdy/redis-py) - The Redis Python Client.
     * [telephus](https://github.com/driftx/Telephus) - Twisted based client for Cassandra.
     * [txRedis](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
+    * [Couchbase](https://github.com/couchbase/couchbase-python-client) - The official Couchbase client library.
 
 ## ORM
 
